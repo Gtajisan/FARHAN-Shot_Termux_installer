@@ -13,3 +13,7 @@ To check for updates and update, run the following command:
 ```
 (cd FARHAN-Shot2 && git pull)
 ```
+### FARHAN-SHOT2 /LINK
+```
+ https://github.com/Gtajisan/FARHAN-Shot2
+ ```
