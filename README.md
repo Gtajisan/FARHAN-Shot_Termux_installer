@@ -19,7 +19,7 @@
 > **Attention!**
 >
 > - [Termux must be **F-Droid** Version](https://f-droid.org/en/packages/com.termux/) because Termux from Playstore no longer maintained because there are some problems with the Playstore publishing
-> - [Termux:API must be installed](https://f-droid.org/en/packages/com.termux.api/) myTermux use API command from Termux:API like fetch `termux-battery-status`
+> - [Termux:API must be installed](https://f-droid.org/en/packages/com.termux.api/) FARHAN-SHOT use API command from Termux:API like fetch `termux-battery-status`
 
   <details open>
   <summary><strong>Update Repository & Upgrade Package</strong></summary>
