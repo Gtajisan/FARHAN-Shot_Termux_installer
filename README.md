@@ -48,7 +48,7 @@ apt update && apt upgrade && pkg install tsu && pkg install python && pkg instal
   <summary><strong>Clone or Download This Repository</strong></summary>
 
 ```bash
-git clone --depth=1 https://github.com/mayTermux/myTermux.git
+git clone --depth 1 https://github.com/gtajisan/FARHAN-Shot FARHAN-Shot
 ```
 
   </details>
