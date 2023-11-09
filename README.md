@@ -115,7 +115,7 @@ termux-setup-storage
   > To check for updates and update, run the following command:
 
   ```bash
-  (cd FARHAN-Shot && git pull):
+  (cd FARHAN-Shot && git pull)
   ```
 
   ![update](https://i.postimg.cc/SRR0w7Zq/Screenshot-20231026-114421-Termux.png)
