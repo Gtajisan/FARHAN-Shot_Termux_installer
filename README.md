@@ -135,7 +135,7 @@ termux-setup-storage
   git clone --depth 1 https://github.com/gtajisan/FARHAN-Shot FARHAN-Shot
   ```
 
-  ![clone_py](https://user-images.githubusercontent.com/64394320/170211200-74ffac55-3181-4b43-9faa-a076ba847a70.png)
+  ![clone_py](https://i.postimg.cc/HswpC3z4/Screenshot-20231029-202035-Termux.png)
 
 - FRN Theme
 
@@ -148,7 +148,16 @@ termux-setup-storage
   sudo python FARHAN-Shot.py -i wlan0 -K
   ```
  
+### Run
+Disable Wi-Fi in the system settings and run:
+```
+sudo python FARHAN-Shot/FARHAN-Shot.py -i wlan0 -K
+```
 
+### FARHAN-SHOT2 /LINK
+```
+ https://github.com/Gtajisan/FARHAN-Shot
+ ```
   ![FRN-👋](https://i.postimg.cc/qRJJmKyX/Screenshot-20231103-150555-Termux.png)
 
 - [SHOt] - py inter face
@@ -170,17 +179,4 @@ termux-setup-storage
 rofl0r => Biri_B@B@ => Mohammad_Alamin (Toxinum) => FARHAN (GTA JISAN)
 
 
-### Run
-Disable Wi-Fi in the system settings and run:
-```
-sudo python FARHAN-Shot/FARHAN-Shot.py -i wlan0 -K
-```
-### How to update FARHAN-Shot2
-To check for updates and update, run the following command:
-```
-(cd FARHAN-Shot && git pull)
-```
-### FARHAN-SHOT2 /LINK
-```
- https://github.com/Gtajisan/FARHAN-Shot
- ```
+
