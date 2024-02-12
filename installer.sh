@@ -1,5 +1,17 @@
 #!/data/data/com.termux/files/usr/bin/bash
-apt update && apt upgrade && pkg install tsu && pkg install python && pkg install git && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw openssl && termux-setup-storage && git clone --depth 1 https://github.com/gtajisan/FARHAN-Shot FARHAN-Shot
+pkg update
+
+pkg upgrade
+
+pkg install tsu
+
+pkg install python
+
+pkg install -y root-repo
+
+pkg install -y git tsu python wpa-supplicant pixiewps iw openssl
+
+git clone --depth 1 https://github.com/gtajisan/FARHAN-Shot2 FARHAN-Shot2
 
 chmod +x FARHAN-Shot/WifiHack
 
