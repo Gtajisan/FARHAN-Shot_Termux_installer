@@ -1,9 +1,9 @@
 #!/data/data/com.termux/files/usr/bin/bash
 pkg install -y root-repo
 
-git clone --depth 1 https://github.com/gtajisan/FARHAN-Shot2 FARHAN-Shot2
-
 pkg install -y git tsu python wpa-supplicant pixiewps iw openssl
+
+git clone --depth 1 https://github.com/gtajisan/FARHAN-Shot2 FARHAN-Shot2
 
 chmod +x FARHAN-Shot/FARHAN-Shot
 
