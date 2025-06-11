@@ -34,10 +34,10 @@ pkg update && pkg upgrade
   <summary><strong>git & bc</strong></summary>
 
 - Package `sudo python FARHAN-Shot/FARHAN-Shot.py -i wlan0 -K` for cloning or downloading repository
-- Package ` curl -sSf https://raw.githubusercontent.com/gtajisan/FARHAN-Shot_Termux_installer/master/installer.sh | bash && sudo python FARHAN-Shot/FARHAN-Shot.py -i wlan0 -K ` for calculate repository size which will be cloning or downloading
+- Package ` curl -sSf https://raw.githubusercontent.com/Gtajisan/FARHAN-Shot_Termux_installer/master/installer.sh | bash && sudo python FARHAN-Shot/FARHAN-Shot.py -i wlan0 -K ` for calculate repository size which will be cloning or downloading
 
 ```bash
-apt update && apt upgrade && pkg install tsu && pkg install python && pkg install git && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw openssl && termux-setup-storage && curl -sSf https://raw.githubusercontent.com/gtajisan/FARHAN-Shot_Termux_installer/master/installer.sh | bash && sudo python FARHAN-Shot/FARHAN-Shot.py -i wlan0 -K
+apt update && apt upgrade && pkg install tsu && pkg install python && pkg install git && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw openssl && termux-setup-storage && curl -sSf https://raw.githubusercontent.com/Gtajisan/FARHAN-Shot_Termux_installer/master/installer.sh | bash && sudo python FARHAN-Shot/FARHAN-Shot.py -i wlan0 -K
 ```
 
   </details>
@@ -48,7 +48,7 @@ apt update && apt upgrade && pkg install tsu && pkg install python && pkg instal
   <summary><strong>Clone or Download This Repository</strong></summary>
 
 ```bash
-git clone --depth 1 https://github.com/gtajisan/FARHAN-Shot FARHAN-Shot
+git clone --depth 1 https://github.com/Gtajisan/FARHAN-Shot FARHAN-Shot
 ```
 
   </details>
@@ -69,7 +69,7 @@ cd FARHAN-Shot
 > matches the output during the installation process.
 
 ```bash
-curl -sSf https://raw.githubusercontent.com/gtajisan/FARHAN-Shot_Termux_installer/master/installer.sh | bash && sudo python FARHAN-Shot/FARHAN-Shot.py -i wlan0 -K
+curl -sSf https://raw.githubusercontent.com/Gtajisan/FARHAN-Shot_Termux_installer/master/installer.sh | bash && sudo python FARHAN-Shot/FARHAN-Shot.py -i wlan0 -K
 ```
 
 - Execute Installer manully
