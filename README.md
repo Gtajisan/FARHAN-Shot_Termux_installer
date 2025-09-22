@@ -145,13 +145,13 @@ termux-setup-storage
   cd FARHAN-Shot
   ```
   ```
-  sudo python FARHAN-Shot.py -i wlan0 -K
+  sudo python File/FARHAN-Shot.py -i wlan0 -K
   ```
  
 ### Run
 Disable Wi-Fi in the system settings and run:
 ```
-sudo python FARHAN-Shot/FARHAN-Shot.py -i wlan0 -K
+sudo python FARHAN-Shot/File/FARHAN-Shot.py -i wlan0 -K
 ```
 
 ### FARHAN-SHOT2 /LINK
