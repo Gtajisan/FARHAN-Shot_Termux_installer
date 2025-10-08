@@ -25,7 +25,9 @@ cat <<EOF
 #  ✅ All done!
 #
 #  ▶ To run FARHAN-Shot, use:
-#     sudo python FARHAN-Shot/File/FARHAN-Shot.py -i wlan0 -K
+#     cd FARHAN-Shot
+#     chmod +x main.py
+#     sudo python main.py -i wlan0 -K 
 #
 #  ▶ To update later:
 #     cd FARHAN-Shot && git pull
